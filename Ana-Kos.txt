@@ -1,0 +1,1 @@
+{"ime": "Ana", "priimek": "Kos", "email": "ana.kos@email.com", "je_blokiran": true}
